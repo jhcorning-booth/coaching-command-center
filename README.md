@@ -72,6 +72,3 @@ On first load the app prompts for an Anthropic API key. The key is held in memor
     └── prd.md             # Product requirements document
 ```
 
-## License
-
-MIT.
